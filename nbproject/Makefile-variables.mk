@@ -7,13 +7,13 @@ CND_BASEDIR=`pwd`
 CND_BUILDDIR=build
 CND_DISTDIR=dist
 # Debug configuration
-CND_PLATFORM_Debug=GNU-Linux-x86
-CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux-x86
+CND_PLATFORM_Debug=MinGW_SJLJ-Windows
+CND_ARTIFACT_DIR_Debug=dist/Debug/MinGW_SJLJ-Windows
 CND_ARTIFACT_NAME_Debug=ubuntu_shell
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/ubuntu_shell
-CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux-x86/package
+CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW_SJLJ-Windows/ubuntu_shell
+CND_PACKAGE_DIR_Debug=dist/Debug/MinGW_SJLJ-Windows/package
 CND_PACKAGE_NAME_Debug=ubuntushell.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/ubuntushell.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/MinGW_SJLJ-Windows/package/ubuntushell.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux-x86
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux-x86
