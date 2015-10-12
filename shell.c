@@ -12,7 +12,7 @@
 
 void cd(int argNo, char *arg[]) {
     char *dir = arg[1];
-    int fuck;
+    int wait=0;
     
     if (argNo > 2)
         printf("cd: wrong number of arguments\n");
