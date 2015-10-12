@@ -11,6 +11,7 @@
 #include <sys/wait.h>
 
 void cd(int argNo, char *arg[]) {
+    int j=0;
     char *dir = arg[1];
     
     if (argNo > 2)
