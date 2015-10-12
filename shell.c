@@ -11,8 +11,8 @@
 #include <sys/wait.h>
 
 void cd(int argNo, char *arg[]) {
-    int efg=0;
     char *dir = arg[1];
+    int fuck;
     
     if (argNo > 2)
         printf("cd: wrong number of arguments\n");
